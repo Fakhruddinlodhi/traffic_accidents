@@ -3,7 +3,7 @@
 For this exercise, you have been provided a dataset of traffic accidents that occurred in Davidson County which was retrieved from https://data.nashville.gov/datasets/1df26ca05f3f407e95ab5a4fc013eab7_0/explore. 
 
 This spreadsheet has been divided into the following sheets:
-* Accidents: Contains the raw data for each accident. In order to familiarize yourself with what is contained in each column, take some time to review the data dictionary, contained in Traffic-Accidents-Metatdata.pdf.
+* Accidents: Contains the raw data for each accident. In order to familiarize yourself with what is contained in each column, take some time to review the data dictionary, contained in Traffic-Accidents-Metadata.pdf.
 * Analysis: This sheet will hold most of your answers.
 * Zero Car Crashes: This sheet will be used in question 3.
 * Collision Types: Contains the text description of each collision type. You will fill in your answers for question 5 here.
